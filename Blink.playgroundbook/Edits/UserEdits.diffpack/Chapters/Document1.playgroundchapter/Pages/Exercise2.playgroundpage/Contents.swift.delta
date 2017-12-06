@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>5</string>
+			<key>ModifiedRange</key>
+			<string>{1631, 1}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{1631, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>10</string>
+			<key>ModifiedRange</key>
+			<string>{1639, 2}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{1639, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>51</string>
+			<key>ModifiedRange</key>
+			<string>{1716, 2}</string>
+			<key>OriginalContent</key>
+			<string>2</string>
+			<key>OriginalRange</key>
+			<string>{1715, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>🦄</string>
+			<key>ModifiedRange</key>
+			<string>{1801, 2}</string>
+			<key>OriginalContent</key>
+			<string>😀</string>
+			<key>OriginalRange</key>
+			<string>{1799, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>🐺</string>
+			<key>ModifiedRange</key>
+			<string>{1958, 2}</string>
+			<key>OriginalContent</key>
+			<string>👻</string>
+			<key>OriginalRange</key>
+			<string>{1956, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>6</string>
+			<key>ModifiedRange</key>
+			<string>{2427, 1}</string>
+			<key>OriginalContent</key>
+			<string>2</string>
+			<key>OriginalRange</key>
+			<string>{2425, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>7</string>
+			<key>ModifiedRange</key>
+			<string>{2518, 1}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{2516, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>6</string>
+			<key>ModifiedRange</key>
+			<string>{2686, 1}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{2684, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>15</string>
+			<key>ModifiedRange</key>
+			<string>{2790, 2}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{2788, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document1.playgroundchapter/Pages/Exercise2.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
